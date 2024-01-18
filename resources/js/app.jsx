@@ -1,5 +1,8 @@
 import './bootstrap';
 import '../css/app.css';
+import '../css/bootstrap.min.css';
+import '../css/style.css';
+
 
 import { createRoot } from 'react-dom/client';
 import { createInertiaApp } from '@inertiajs/react';
